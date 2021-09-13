@@ -1,2 +1,245 @@
+.container {
+  position: absolute;
+  height: 272.09px;
+  width: 211.69px;
+}
 
-/* css */
+.face {
+  background-color: #EBC4B0;
+  position: absolute;
+}
+
+.neck {
+  background-color: #EDBCA3;
+  position: absolute;
+}
+
+.black {
+    background-color: #000000;
+    position: absolute;
+}
+
+.nose {
+    background-color: #F0BCA2;
+    position: absolute;
+}
+
+.bridge {
+    background-color: #F4BCA0;
+    position: absolute;
+}
+
+.mouth {
+    background-color: #D896A5;
+    position: absolute;
+}
+
+.neck1 {
+  height: 41px;
+  width: 67px;
+  left: 70px;
+  top: 230.09px;
+}
+
+.face2 {
+  height: 200px;
+  width: 140px;
+  border-radius: 50%;
+  left: 33px;
+  top: 46.09px;
+}
+
+.hair3 {
+  height: 64px;
+  width: 69px;
+  border-radius: 50%;
+  left: 137px;
+  top: 207.09px;
+}
+
+.hair4 {
+  height: 64px;
+  width: 58px;
+  border-radius: 50%;
+  left: 13px;
+  top: 207.09px;
+}
+
+.hair5 {
+  height: 22px;
+  width: 86px;
+  transform: rotate(-40.24deg);
+  left: 19px;
+  top: 50.64px;
+}
+
+.hair6 {
+  height: 156px;
+  width: 21.47px;
+  transform: rotate(-14.68deg);
+  left: 160px;
+  top: 26.44px;
+}
+
+.hair7 {
+  height: 170.47px;
+  width: 24px;
+  transform: rotate(5.71deg);
+  left: 16px;
+  top: 80px;
+}
+
+.glasses8 {
+  height: 0px;
+  width: 13.04px;
+  transform: rotate(4.4deg);
+  left: 99px;
+  top: 128.09px;
+}
+
+.eyebrow9 {
+  height: 0px;
+  width: 36.88px;
+  transform: rotate(-12.53deg);
+  left: 49px;
+  top: 99.09px;
+}
+
+.eyebrow10 {
+  height: 0px;
+  width: 44.18px;
+  transform: rotate(5.19deg);
+  left: 119px;
+  top: 114.09px;
+}
+
+.mouth11 {
+  height: 12px;
+  width: 61px;
+  border-radius: 50%;
+  left: 70px;
+  top: 189.09px;
+}
+
+.mouth12 {
+  height: 0px;
+  width: 61.2px;
+  transform: rotate(-0.16deg);
+  left: 70px;
+  top: 195.09px;
+}
+
+.nose13 {
+  height: 22px;
+  width: 42px;
+  border-radius: 50%;
+  left: 80px;
+  top: 156.09px;
+}
+
+.eye14 {
+  height: 12.04px;
+  width: 21.28px;
+  transform: rotate(18.57deg);
+  border-radius: 50%;
+  left: 62.83px;
+  top: 116.09px;
+}
+
+.eye15 {
+  height: 12.04px;
+  width: 21.28px;
+  transform: rotate(-18.57deg);
+  border-radius: 50%;
+  left: 126px;
+  top: 124.56px;
+}
+
+.hair16 {
+  height: 64px;
+  width: 25.93px;
+  transform: rotate(-19.23deg);
+  left: 25px;
+  top: 169.63px;
+}
+
+.hair17 {
+  height: 47.21px;
+  width: 17.6px;
+  transform: rotate(22.6deg);
+  left: 39.34px;
+  top: 62.45px;
+}
+
+.hair18 {
+  height: 39px;
+  width: 61px;
+  left: 9px;
+  top: 233.09px;
+}
+
+.hair19 {
+  height: 32px;
+  width: 70px;
+  left: 136px;
+  top: 239.09px;
+}
+
+.hair20 {
+  height: 91.04px;
+  width: 22.39px;
+  transform: rotate(10.76deg);
+  left: 160px;
+  top: 136.82px;
+}
+
+.hair21 {
+  height: 84px;
+  width: 23px;
+  transform: rotate(-8.16deg);
+  left: 177px;
+  top: 167.35px;
+}
+
+.hair22 {
+  height: 24px;
+  width: 63px;
+  transform: rotate(35.36deg);
+  left: 105px;
+  top: 40px;
+}
+
+.bridge23 {
+  height: 40px;
+  width: 15px;
+  transform: rotate(8.14deg);
+  left: 98.19px;
+  top: 127.09px;
+}
+
+.glasses24 {
+  height: 38.07px;
+  width: 51px;
+  transform: rotate(11.58deg);
+  border: 3px solid black;
+  background-color: transparent;
+  left: 49.03px;
+  top: 105.09px;
+}
+
+.glasses25 {
+  height: 36px;
+  width: 49.87px;
+  transform: rotate(4.71deg);
+  border: 3px solid black;
+  background-color: transparent;
+  left: 114.63px;
+  top: 115.19px;
+}
+
+.hair26 {
+  height: 30px;
+  width: 72px;
+  left: 88px;
+  top: 24px;
+}

@@ -1,5 +1,11 @@
+document.addEventListener("mousemove", () => {
+  let x = event.clientX;
+  let y = event.clientY;
+  document.getElementById("coords").innerHTML = [x, y];
+});
 
-/* javascript */
+let elements = document.querySelectorAll("div");
+console.log("Total number of HTML elements: " + elements.length);
 
 var bauhaus = `
 
